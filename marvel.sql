@@ -126,7 +126,7 @@ INSERT INTO `movies_actors` (`id_actors`, `id_movies`) VALUES
 (8, 3),
 (9, 3),
 (10, 3),
-(12, 14),
+
 
 
 --
