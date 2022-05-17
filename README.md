@@ -45,3 +45,7 @@ une requête pour afficher les 3 derniers acteurs ajoutés
 ```
 SELECT * FROM ( SELECT * FROM actors ORDER BY creation_date DESC LIMIT 3 ) as r ORDER BY creation_date DESC
 ```
+
+Olivier BOYER
+Tous fonctionnes
+supprimer les etiquettes inutiles
