@@ -49,3 +49,5 @@ SELECT * FROM ( SELECT * FROM actors ORDER BY creation_date DESC LIMIT 3 ) as r 
 Olivier BOYER
 Tous fonctionnes
 supprimer les etiquettes inutiles
+
+Correction Cécile: Bon boulot Steeven. Bravo à toi ! 
